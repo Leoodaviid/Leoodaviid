@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Leoodaviid
-- 👀 I'm interested in learning programming
-- 🌱 I’m currently learning programming logic
-- 💞️ I try to collaborate soon as a full stack developer
-- 📫 How to reach me: david_ax7@hotmail.com
+#              Leonardo David
 
-<!---
-Leoodaviid/Leoodaviid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Olá mundo!! (literalmente)*
+
+
+
+👋 Gosto de estudar novas tecnologias e oportunidades!
+
+👀 Estou interessado em ser desenvolvedor!
+
+🌱 Atualmente quero me aperfeiçoar na parte Font-End
+
+:rocket: Ideias são aprova de balas :rocket:
+
+:globe_with_meridians: Aceito vagas para treinee
+
+:e-mail: david_ax7@hotmail.com
+

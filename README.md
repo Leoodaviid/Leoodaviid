@@ -12,7 +12,7 @@
 
 :rocket: Ideias são aprova de balas :rocket:
 
-:globe_with_meridians: Aceito vagas para treinee
+:globe_with_meridians: Aceito vagas para Desenvolvedor Júnior
 
 :e-mail: david_ax7@hotmail.com
 

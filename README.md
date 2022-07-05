@@ -6,13 +6,13 @@
 
 👋 Gosto de estudar novas tecnologias e oportunidades!
 
-👀 Estou interessado em ser desenvolvedor!
+👀  Desenvolvedor Front-End Júnior!
 
-🌱 Atualmente quero me aperfeiçoar na parte Font-End
+🌱 /* O moleque do HTML, CSS e JS */
 
 :rocket: Ideias são aprova de balas :rocket:
 
-:globe_with_meridians: Aceito vagas para Desenvolvedor Júnior
+:globe_with_meridians: Aceitando vagas para Font-End!
 
-:e-mail: david_ax7@hotmail.com
+:Linkedin: leoodaviid
 

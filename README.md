@@ -3,8 +3,7 @@
 
 
 
-###                                  Olá, eu sou o Leonardo David
-
+###                                                                <center>Olá, eu sou o Leonardo David</center>
 ---
 
 
@@ -14,7 +13,6 @@
 
 
 #### Tecnologias que estou atualmente :desktop_computer:
-
 ---
 
 - Html

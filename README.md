@@ -1,5 +1,4 @@
-![](C:\Workspace\GITHUB\Perfil\Leoodaviid\assets\my.gif)
-
+![my](https://user-images.githubusercontent.com/104696611/178117839-e49e1295-fb8c-4377-b142-5ec14059d902.gif)
 
 
 

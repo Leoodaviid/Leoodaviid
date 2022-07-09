@@ -1,4 +1,4 @@
-![](C:\Workspace\GITHUB\Perfil\Leoodaviid\Leoodaviid\assets\my.gif)
+![](C:\Workspace\GITHUB\Perfil\Leoodaviid\assets\my.gif)
 
 
 

@@ -1,10 +1,8 @@
 ![my](https://user-images.githubusercontent.com/104696611/178117839-e49e1295-fb8c-4377-b142-5ec14059d902.gif)
 
-
+---
 
 <h3 align="center">Olá, sou o Leonardo David desenvolvedor Front-End Júnior</h3>
-
----
 
 
 
@@ -12,13 +10,9 @@
 
 
 
-
-
-#### Tecnologias que estudo atualmente: :desktop_computer:
 ---
 
-
-
+#### Tecnologias que estudo atualmente: :desktop_computer:
 - Html 5;
 - Css;
 - JavaScript;
@@ -26,9 +20,11 @@
 
 
 
+---
+
 <h4>Sou/tenho: 👨‍💻</h4>
 
----
+
 
 - Habilidade de comunicação e relacionamento interpessoal;
 
@@ -40,13 +36,12 @@
 
 - capacidade de aprimoramento, sempre em busca de treinamentos  e certificações.
 
-  
-
-<h4>Me encontre em: 🔗</h4>
 
 ---
 
-​                                                                                                  
+<h4>Me encontre em: 🔗</h4>
+
+​                                                                                            
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/leoodaviid)](https://www.facebook.com/Leoodaviid) [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/leoodaviid)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)  [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/leoodaviid)](https://www.linkedin.com/in/leoodaviid/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/leoodaviid)](https://wa.me/5588997041704)
 

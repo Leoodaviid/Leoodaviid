@@ -28,7 +28,7 @@
 
 
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/leoodaviid](https://www.facebook.com/Leoodaviid) )
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/Leoodaviid) 
 
 
 

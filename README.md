@@ -12,7 +12,7 @@
 
 ​                                
 
-​                           <a align="center">        [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/Leoodaviid)  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)   [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/leoodaviid/) </a>
+​                                            [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/Leoodaviid)  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)   [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/leoodaviid/) 
 
 
 

@@ -8,15 +8,7 @@
 
 
 
-Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cursando Análise e Desenvolvimento de software pela Estácio,  decidi me aprofundar nos estudos apenas no início do ano de 2022. Atualmente tenho me dedicado a se tornar um desenvolvedor Fullstack, buscando sair da zona de conforto e procurando sempre novos desafios, afim de obter conhecimentos mais sólidos.	
-
-​                                                                                                  
-
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/leoodaviid)](https://www.facebook.com/Leoodaviid) 
-
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/leoodaviid)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)  
-
-[![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/leoodaviid)](https://www.linkedin.com/in/leoodaviid/) 
+<h6>Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cursando Análise e Desenvolvimento de software pela Estácio,  decidi me aprofundar nos estudos apenas no início do ano de 2022. Atualmente tenho me dedicado a se tornar um desenvolvedor Fullstack, buscando sair da zona de conforto e procurando sempre novos desafios, afim de obter conhecimentos mais sólidos.</h6>	
 
 
 
@@ -31,8 +23,6 @@ Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cu
 - Css;
 - JavaScript;
 - React.
-
-
 
 
 
@@ -52,7 +42,13 @@ Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cu
 
   
 
+<h4>Me encontre em: 🔗</h4>
 
+---
+
+​                                                                                                  
+
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/leoodaviid)](https://www.facebook.com/Leoodaviid) [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/leoodaviid)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)  [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/leoodaviid)](https://www.linkedin.com/in/leoodaviid/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/leoodaviid)](https://wa.me/5588997041704)
 
 
 

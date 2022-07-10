@@ -8,9 +8,21 @@
 
 
 
+
+
+
+
+
+
 <h6> Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cursando Análise e Desenvolvimento de software pela Estácio,  decidi me aprofundar nos estudos apenas no início do ano de 2022. Atualmente tenho me dedicado a se tornar um desenvolvedor Fullstack, buscando sair da zona de conforto e procurando sempre novos desafios, afim de obter conhecimentos mais sólidos.</h6>
 
 ​                                
+
+
+
+
+
+
 
 ​                                                                  [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/arthurspk)](https://www.facebook.com/Leoodaviid)  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://instagram.com/leoodaviid?igshid=YmMyMTA2M2Y=)  [![ Linkedin Badge ](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/leoodaviid/) 
 

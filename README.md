@@ -6,25 +6,29 @@
 
 
 
-<h6>Estudante de Programação, fascinado pelo universo da tecnologia, atualmente cursando Análise e Desenvolvimento de software pela Estácio,  decidi me aprofundar nos estudos apenas no início do ano de 2022. Atualmente tenho me dedicado a se tornar um desenvolvedor Fullstack, buscando sair da zona de conforto e procurando sempre novos desafios, afim de obter conhecimentos mais sólidos.</h6>	
+<h6>Sou um estudante de programação fascinado pelo universo em constante evolução da tecnologia. Atualmente cursando Análise e Desenvolvimento de Software na Estácio. Como estudante, estou sempre em busca de novos desafios e oportunidades para ampliar meus conhecimentos. Atualmente, estou focado em me tornar um desenvolvedor Fullstack, saindo da minha zona de conforto para obter conhecimentos e habilidades mais sólidos. Meu portfólio do Github reflete minha paixão por programação e meu desejo de melhorar continuamente minhas habilidades. Com cada projeto, eu me esforço para criar soluções limpas, eficientes e elegantes que atendam aos mais altos padrões de qualidade. Se você está procurando um desenvolvedor Fullstack apaixonado e dedicado, convido você a dar uma olhada no meu perfil do Github. Estou ansioso para colaborar com pessoas que pensam da mesma forma e contribuir para projetos interessantes na indústria de tecnologia. Obrigado pela visita!</h6>	
 
 
 
 ---
 
-#### Tecnologias que estudo atualmente: :desktop_computer:
+#### 🖥️Tecnologias :
 - Html 5;
 - Css;
 - JavaScript;
-- React.
+- TypeScript;
+- React.Js
+- Next.Js
+- Styled Components
+- Bootastrap
+- SASS
+- Scrum
 
 
 
 ---
 
-<h4>Sou/tenho: 👨‍💻</h4>
-
-
+<h4>👨‍💻Sou/tenho:</h4>
 
 - Habilidade de comunicação e relacionamento interpessoal;
 

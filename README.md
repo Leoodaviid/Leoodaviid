@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Olá, sou o Leonardo David desenvolvedor Front-End Júnior</h3>
+<h3 align="center">Olá, sou o Leonardo David desenvolvedor Front-end</h3>
 
 
 

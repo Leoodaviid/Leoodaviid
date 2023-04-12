@@ -17,13 +17,13 @@
 - Css;
 - JavaScript;
 - TypeScript;
-- React.Js
-- Next.Js
-- Styled Components
-- Tailwind
-- Bootastrap
-- SASS
-- Scrum
+- React.Js;
+- Next.Js;
+- Styled Components;
+- Tailwind;
+- Bootastrap;
+- SASS;
+- Scrum;
 
 
 

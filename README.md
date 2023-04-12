@@ -20,6 +20,7 @@
 - React.Js
 - Next.Js
 - Styled Components
+- Tailwind
 - Bootastrap
 - SASS
 - Scrum
